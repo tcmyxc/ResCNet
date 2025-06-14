@@ -27,7 +27,7 @@ rescnet50_c100
 
 ## Citation
 If you find the paper useful in your research, please consider citing:
-```
+```bibtex
 @article{xu2025deep,
   title={Deep feature response discriminative calibration},
   author={Xu, Wenxiang and Qiu, Tian and Zhou, Linyun and Feng, Zunlei and Song, Mingli and Wang, Huiqiong},
